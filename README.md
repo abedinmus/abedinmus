@@ -1,3 +1,5 @@
+![abedinmus's Stats](https://github-readme-stats.vercel.app/api?username=abedinmus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ### Hi there, I'm Mustayeen Abedin ! 👋
 
 - 🔭 I’m currently working on Critiquer Web Application
@@ -8,4 +10,3 @@
 - 📫 How to reach me: linkedin.com/in/mustayeenabedin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I was once in the top 1% of all spotify listeners. 
-
